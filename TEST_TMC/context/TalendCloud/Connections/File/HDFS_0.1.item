@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_3s5AsINREeqv4Jw2z2M3OQ" xmi:version="2.0">
-  <contextParameter comment="" name="connection_hdfs_namenode_uri" prompt="connection_hdfs_namenode_uri?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AsYNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_namenode_principal" prompt="connection_hdfs_namenode_principal?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AsoNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_username" prompt="connection_hdfs_username?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5As4NREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_1" prompt="connection_hdfs_hadoop_property_1?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AtINREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_1" prompt="connection_hdfs_hadoop_value_1?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AtYNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_2" prompt="connection_hdfs_hadoop_property_2?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AtoNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_2" prompt="connection_hdfs_hadoop_value_2?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5At4NREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_3" prompt="connection_hdfs_hadoop_property_3?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AuINREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_3" prompt="connection_hdfs_hadoop_value_3?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AuYNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_4" prompt="connection_hdfs_hadoop_property_4?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AuoNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_4" prompt="connection_hdfs_hadoop_value_4?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5Au4NREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_5" prompt="connection_hdfs_hadoop_property_5?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AvINREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_5" prompt="connection_hdfs_hadoop_value_5?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AvYNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_6" prompt="connection_hdfs_hadoop_property_6?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AvoNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_6" prompt="connection_hdfs_hadoop_value_6?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5Av4NREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_7" prompt="connection_hdfs_hadoop_property_7?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AwINREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_7" prompt="connection_hdfs_hadoop_value_7?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AwYNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_property_8" prompt="connection_hdfs_hadoop_property_8?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5AwoNREeqv4Jw2z2M3OQ"/>
-  <contextParameter comment="" name="connection_hdfs_hadoop_value_8" prompt="connection_hdfs_hadoop_value_8?" promptNeeded="false" type="id_String" value="" xmi:id="_3s5Aw4NREeqv4Jw2z2M3OQ"/>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_06846799-73a3-4b86-a9a5-a8732137bebf"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>3FLJTotnsGBULCElyx50RXc0MWUl5eC/992Vd0u2nmmdieikEYX155X2vUG4skw3aAdySu07rxGi
-52baJ3tblw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_8d52d7ee-c6cd-45ff-b279-0afe658aae15"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>qQbc3nWli89DVRl9YPkXpRCMWuqIbiLmVVp/Z1kQLEnTSHg7gSAJhT3cz17s9Vv9+sUuVAlDo81V
-4Vv+Up5ASA==</DigestValue></Reference></SignedInfo><SignatureValue>YjlcG0La/jBISEZ989GpUnQI2HPD9V+euoKjsRWotonC2Mtwp0Rwl6viz8VsA+wO/U+Pt83E8fi4
-N1Nbi9UPdfTq0NfyIgDQGfA/Uqghl1aE1RG5RPvQaCHjcWBMzXI++KWZ0fNG78XYaA70D6sP/Ada
-0S7pyUYClacZciBCQ9DGxQ+DSJVgGKR3EpnHjttQHj/c3VbdHfAiyZVz+v3DkzduSZQTMDdE9tfd
-VHg6E0Q+eOryloBgYoMCHN8tXieeTOKzjyCVUaznV4vPZEVdGVWwEXSksHaVbzyiZi43dyLf82EZ
-si4cEeTflE7Fo0wtNu0sxXc4WX7dvjn6qv+F6g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_eS-DsINUEeql1ssrbtCrJA" xmi:version="2.0">
+  <contextParameter comment="" name="connection_hdfs_namenode_uri" prompt="connection_hdfs_namenode_uri?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DsYNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_namenode_principal" prompt="connection_hdfs_namenode_principal?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DsoNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_username" prompt="connection_hdfs_username?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-Ds4NUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_1" prompt="connection_hdfs_hadoop_property_1?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DtINUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_1" prompt="connection_hdfs_hadoop_value_1?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DtYNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_2" prompt="connection_hdfs_hadoop_property_2?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DtoNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_2" prompt="connection_hdfs_hadoop_value_2?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-Dt4NUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_3" prompt="connection_hdfs_hadoop_property_3?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DuINUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_3" prompt="connection_hdfs_hadoop_value_3?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DuYNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_4" prompt="connection_hdfs_hadoop_property_4?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DuoNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_4" prompt="connection_hdfs_hadoop_value_4?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-Du4NUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_5" prompt="connection_hdfs_hadoop_property_5?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DvINUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_5" prompt="connection_hdfs_hadoop_value_5?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DvYNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_6" prompt="connection_hdfs_hadoop_property_6?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DvoNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_6" prompt="connection_hdfs_hadoop_value_6?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-Dv4NUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_7" prompt="connection_hdfs_hadoop_property_7?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DwINUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_7" prompt="connection_hdfs_hadoop_value_7?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DwYNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_property_8" prompt="connection_hdfs_hadoop_property_8?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-DwoNUEeql1ssrbtCrJA"/>
+  <contextParameter comment="" name="connection_hdfs_hadoop_value_8" prompt="connection_hdfs_hadoop_value_8?" promptNeeded="false" type="id_String" value="" xmi:id="_eS-Dw4NUEeql1ssrbtCrJA"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_579c0550-9ed5-4ea0-a2c9-423cf692f72c"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>5qexxwOYFs6c148TEv9xYvflbSZS2uiiqC3CWcXMSG/h4VeayxBTaeCrEic75j+RvnChw9G1odrs
+MHtBzMFgkQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_9c8b31a1-1bf9-4b96-be64-9642a4a897ab"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>jODhY6ibKKzheMhWx+wQQLuDjE9ndi2ydzz9EhOET3+8KfORTlhg8jyBoAgpwMIxpqsAiPvv8FDm
+pb84o2C84g==</DigestValue></Reference></SignedInfo><SignatureValue>cp7MEuQSuQNAvhBGKrKuL5V7joiK+Ll05iokftWBFtrl1ezr4cmsldaHk1s6MhwaKKWKM/We57cV
+GLRMUKFhVTXyJ+KwFuHzi+d/5fNazKgDqB9gfRoa660qEqLu4+UF98Lgz3h09JAbv4wbOGM5jWWo
+KfyFhM48CfmtxaeBspvr3pBOoJ5U2Ug8vhle67hmMPhVpWumWvnaOQgy7jbYNui3e0F0RdbUL/Gq
+fRZ5KliaVdYFrP9GNPTqfjCPy6gWufDjowHWN6z1V2J6BUwmWInyNjI+dMfJOrOFU1HM9S7zni9q
+6TDTU2oohFir33pHQ8V4wx1riOVFYaHbkuEcBw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -46,4 +46,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_8d52d7ee-c6cd-45ff-b279-0afe658aae15" Target="#_06846799-73a3-4b86-a9a5-a8732137bebf"><Timestamp>2020-04-20 21:57:04</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_9c8b31a1-1bf9-4b96-be64-9642a4a897ab" Target="#_579c0550-9ed5-4ea0-a2c9-423cf692f72c"><Timestamp>2020-04-20 22:15:42</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>
